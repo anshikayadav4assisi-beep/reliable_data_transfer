@@ -1,0 +1,26 @@
+Random seed: 751694684 (explicit)
+UDP channel listening on port 9001
+Forwarding to 127.0.0.1:9000
+Loss=0.50 Duplication=0.00 Reordering=0.00 Corruption=0.00 Delay=0-0 ms
+[FORWARD] 35 bytes
+[FORWARD] 35 bytes
+[FORWARD] 35 bytes
+[DROP] Packet discarded
+[FORWARD] 35 bytes
+[FORWARD] 35 bytes
+[FORWARD] 35 bytes
+[DROP] Packet discarded
+[FORWARD] 35 bytes
+[DROP] Packet discarded
+[FORWARD] 15 bytes
+[END] End packet processed; exiting automated mode
+
+=== Channel Summary ===
+Datagrams received: 11
+Datagrams forwarded: 8
+Datagrams dropped: 3
+Extra copies sent: 0
+Datagrams corrupted: 0
+Reordering events: 0
+Invalid datagrams: 0
+[CSV] Summary appended to results/channel_stats.csv

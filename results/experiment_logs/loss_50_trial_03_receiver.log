@@ -1,0 +1,19 @@
+UDP receiver listening on port 9000...
+Waiting for packets and then PACKET_END.
+[RECEIVED] Type=0 Sequence=3 Ack=0 Length=20
+  Payload: Hello UDP - packet 3
+  Checksum: VALID
+[RECEIVED] Type=0 Sequence=5 Ack=0 Length=20
+  Payload: Hello UDP - packet 5
+  Checksum: VALID
+[RECEIVED] Type=0 Sequence=7 Ack=0 Length=20
+  Payload: Hello UDP - packet 7
+  Checksum: VALID
+[RECEIVED] Type=0 Sequence=10 Ack=0 Length=21
+  Payload: Hello UDP - packet 10
+  Checksum: VALID
+[END] Received end packet, sequence=11
+
+=== Receiver Summary ===
+Valid data packets: 4
+Invalid packets: 0

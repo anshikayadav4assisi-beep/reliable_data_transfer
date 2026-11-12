@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="900" height="560" fill="white"/>
+<text x="450" y="35" text-anchor="middle" font-family="Arial" font-size="22">Configured Loss vs Mean Observed Drop Rate</text>
+<text x="25" y="280" transform="rotate(-90 25 280)" text-anchor="middle" font-family="Arial" font-size="15">Mean observed drop rate (%)</text>
+<line x1="100" y1="450.00" x2="830" y2="450.00" stroke="#dddddd"/>
+<text x="85" y="454.00" text-anchor="end" font-family="Arial" font-size="12">0%</text>
+<line x1="100" y1="375.00" x2="830" y2="375.00" stroke="#dddddd"/>
+<text x="85" y="379.00" text-anchor="end" font-family="Arial" font-size="12">20%</text>
+<line x1="100" y1="300.00" x2="830" y2="300.00" stroke="#dddddd"/>
+<text x="85" y="304.00" text-anchor="end" font-family="Arial" font-size="12">40%</text>
+<line x1="100" y1="225.00" x2="830" y2="225.00" stroke="#dddddd"/>
+<text x="85" y="229.00" text-anchor="end" font-family="Arial" font-size="12">60%</text>
+<line x1="100" y1="150.00" x2="830" y2="150.00" stroke="#dddddd"/>
+<text x="85" y="154.00" text-anchor="end" font-family="Arial" font-size="12">80%</text>
+<line x1="100" y1="75.00" x2="830" y2="75.00" stroke="#dddddd"/>
+<text x="85" y="79.00" text-anchor="end" font-family="Arial" font-size="12">100%</text>
+<line x1="100" y1="75" x2="100" y2="450" stroke="black"/>
+<line x1="100" y1="450" x2="830" y2="450" stroke="black"/>
+<circle cx="100.00" cy="450.00" r="7" fill="#2563eb"/>
+<text x="100.00" y="438.00" text-anchor="middle" font-family="Arial" font-size="12">0.00% (n=84)</text>
+<circle cx="173.00" cy="378.49" r="7" fill="#2563eb"/>
+<text x="173.00" y="366.49" text-anchor="middle" font-family="Arial" font-size="12">19.07% (n=41)</text>
+<circle cx="319.00" cy="281.98" r="7" fill="#2563eb"/>
+<text x="319.00" y="269.98" text-anchor="middle" font-family="Arial" font-size="12">44.81% (n=42)</text>
+<circle cx="465.00" cy="247.78" r="7" fill="#2563eb"/>
+<text x="465.00" y="235.78" text-anchor="middle" font-family="Arial" font-size="12">53.93% (n=44)</text>
+<text x="100" y="470" text-anchor="middle" font-family="Arial" font-size="12">0</text>
+<text x="246" y="470" text-anchor="middle" font-family="Arial" font-size="12">20</text>
+<text x="392" y="470" text-anchor="middle" font-family="Arial" font-size="12">40</text>
+<text x="538" y="470" text-anchor="middle" font-family="Arial" font-size="12">60</text>
+<text x="684" y="470" text-anchor="middle" font-family="Arial" font-size="12">80</text>
+<text x="830" y="470" text-anchor="middle" font-family="Arial" font-size="12">100</text>
+<text x="465" y="520" text-anchor="middle" font-family="Arial" font-size="15">Configured loss probability (%)</text>
+</svg>

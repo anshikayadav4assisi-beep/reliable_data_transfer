@@ -1,0 +1,25 @@
+UDP channel listening on port 9001
+Forwarding to 127.0.0.1:9000
+Loss=0.50 Duplication=0.00 Reordering=0.00 Corruption=0.00 Delay=0-0 ms
+[DROP] Packet discarded
+[DROP] Packet discarded
+[FORWARD] 35 bytes
+[DROP] Packet discarded
+[FORWARD] 35 bytes
+[DROP] Packet discarded
+[DROP] Packet discarded
+[DROP] Packet discarded
+[DROP] Packet discarded
+[FORWARD] 36 bytes
+[FORWARD] 15 bytes
+[END] End packet processed; exiting automated mode
+
+=== Channel Summary ===
+Datagrams received: 11
+Datagrams forwarded: 4
+Datagrams dropped: 7
+Extra copies sent: 0
+Datagrams corrupted: 0
+Reordering events: 0
+Invalid datagrams: 0
+[CSV] Summary appended to results/channel_stats.csv

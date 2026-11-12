@@ -1,0 +1,21 @@
+UDP receiver listening on port 9000...
+Waiting for packets and then PACKET_END.
+[INVALID] Checksum failed; sequence=1
+[INVALID] Checksum failed; sequence=258
+[INVALID] Checksum failed; sequence=3
+[RECEIVED] Type=0 Sequence=4 Ack=0 Length=20
+  Payload: Hello UDP - packet 4
+  Checksum: VALID
+[RECEIVED] Type=0 Sequence=5 Ack=0 Length=20
+  Payload: Hello UDP - packet 5
+  Checksum: VALID
+[INVALID] Checksum failed; sequence=6
+[INVALID] Checksum failed; sequence=7
+[RECEIVED] Type=0 Sequence=8 Ack=0 Length=20
+  Payload: Hello UDP - packet 8
+  Checksum: VALID
+[INVALID] Checksum failed; sequence=9
+[RECEIVED] Type=0 Sequence=10 Ack=0 Length=21
+  Payload: Hello UDP - packet 10
+  Checksum: VALID
+[INVALID] Checksum failed; sequence=11

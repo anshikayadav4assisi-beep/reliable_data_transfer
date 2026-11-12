@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="900" height="560" fill="white"/>
+<text x="450" y="35" text-anchor="middle" font-family="Arial" font-size="22">Configured Channel Delay Ranges</text>
+<text x="25" y="280" transform="rotate(-90 25 280)" text-anchor="middle" font-family="Arial" font-size="15">Configured delay (ms)</text>
+<line x1="100" y1="450.00" x2="830" y2="450.00" stroke="#dddddd"/>
+<text x="85" y="454.00" text-anchor="end" font-family="Arial" font-size="12">0</text>
+<line x1="100" y1="375.00" x2="830" y2="375.00" stroke="#dddddd"/>
+<text x="85" y="379.00" text-anchor="end" font-family="Arial" font-size="12">60</text>
+<line x1="100" y1="300.00" x2="830" y2="300.00" stroke="#dddddd"/>
+<text x="85" y="304.00" text-anchor="end" font-family="Arial" font-size="12">120</text>
+<line x1="100" y1="225.00" x2="830" y2="225.00" stroke="#dddddd"/>
+<text x="85" y="229.00" text-anchor="end" font-family="Arial" font-size="12">180</text>
+<line x1="100" y1="150.00" x2="830" y2="150.00" stroke="#dddddd"/>
+<text x="85" y="154.00" text-anchor="end" font-family="Arial" font-size="12">240</text>
+<line x1="100" y1="75.00" x2="830" y2="75.00" stroke="#dddddd"/>
+<text x="85" y="79.00" text-anchor="end" font-family="Arial" font-size="12">300</text>
+<line x1="100" y1="75" x2="100" y2="450" stroke="black"/>
+<line x1="100" y1="450" x2="830" y2="450" stroke="black"/>
+<line x1="220.00" y1="450.00" x2="220.00" y2="450.00" stroke="#9333ea" stroke-width="8"/>
+<circle cx="220.00" cy="450.00" r="5" fill="#7e22ce"/>
+<circle cx="220.00" cy="450.00" r="5" fill="#7e22ce"/>
+<text x="220.00" y="438.00" text-anchor="middle" font-family="Arial" font-size="13">0-0 ms (n=84)</text>
+<line x1="470.00" y1="387.50" x2="470.00" y2="325.00" stroke="#9333ea" stroke-width="8"/>
+<circle cx="470.00" cy="387.50" r="5" fill="#7e22ce"/>
+<circle cx="470.00" cy="325.00" r="5" fill="#7e22ce"/>
+<text x="470.00" y="313.00" text-anchor="middle" font-family="Arial" font-size="13">50-100 ms (n=20)</text>
+<line x1="720.00" y1="325.00" x2="720.00" y2="75.00" stroke="#9333ea" stroke-width="8"/>
+<circle cx="720.00" cy="325.00" r="5" fill="#7e22ce"/>
+<circle cx="720.00" cy="75.00" r="5" fill="#7e22ce"/>
+<text x="720.00" y="63.00" text-anchor="middle" font-family="Arial" font-size="13">100-300 ms (n=22)</text>
+<text x="220" y="470" text-anchor="middle" font-family="Arial" font-size="12">0</text>
+<text x="470" y="470" text-anchor="middle" font-family="Arial" font-size="12">1</text>
+<text x="720" y="470" text-anchor="middle" font-family="Arial" font-size="12">2</text>
+<text x="465" y="520" text-anchor="middle" font-family="Arial" font-size="15">Delay configuration index (0, 1, 2)</text>
+</svg>

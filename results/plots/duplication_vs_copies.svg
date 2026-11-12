@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="900" height="560" fill="white"/>
+<text x="450" y="35" text-anchor="middle" font-family="Arial" font-size="22">Configured Duplication vs Mean Extra Copies</text>
+<text x="25" y="280" transform="rotate(-90 25 280)" text-anchor="middle" font-family="Arial" font-size="15">Mean extra copies per trial</text>
+<line x1="100" y1="450.00" x2="830" y2="450.00" stroke="#dddddd"/>
+<text x="85" y="454.00" text-anchor="end" font-family="Arial" font-size="12">0</text>
+<line x1="100" y1="375.00" x2="830" y2="375.00" stroke="#dddddd"/>
+<text x="85" y="379.00" text-anchor="end" font-family="Arial" font-size="12">2</text>
+<line x1="100" y1="300.00" x2="830" y2="300.00" stroke="#dddddd"/>
+<text x="85" y="304.00" text-anchor="end" font-family="Arial" font-size="12">5</text>
+<line x1="100" y1="225.00" x2="830" y2="225.00" stroke="#dddddd"/>
+<text x="85" y="229.00" text-anchor="end" font-family="Arial" font-size="12">7</text>
+<line x1="100" y1="150.00" x2="830" y2="150.00" stroke="#dddddd"/>
+<text x="85" y="154.00" text-anchor="end" font-family="Arial" font-size="12">10</text>
+<line x1="100" y1="75.00" x2="830" y2="75.00" stroke="#dddddd"/>
+<text x="85" y="79.00" text-anchor="end" font-family="Arial" font-size="12">12</text>
+<line x1="100" y1="75" x2="100" y2="450" stroke="black"/>
+<line x1="100" y1="450" x2="830" y2="450" stroke="black"/>
+<circle cx="100.00" cy="450.00" r="7" fill="#16a34a"/>
+<text x="100.00" y="438.00" text-anchor="middle" font-family="Arial" font-size="12">0.00 (n=84)</text>
+<circle cx="282.50" cy="337.50" r="7" fill="#16a34a"/>
+<text x="282.50" y="325.50" text-anchor="middle" font-family="Arial" font-size="12">3.60 (n=20)</text>
+<circle cx="465.00" cy="266.76" r="7" fill="#16a34a"/>
+<text x="465.00" y="254.76" text-anchor="middle" font-family="Arial" font-size="12">5.86 (n=22)</text>
+<circle cx="647.50" cy="223.44" r="7" fill="#16a34a"/>
+<text x="647.50" y="211.44" text-anchor="middle" font-family="Arial" font-size="12">7.25 (n=20)</text>
+<text x="100" y="470" text-anchor="middle" font-family="Arial" font-size="12">0.0</text>
+<text x="246" y="470" text-anchor="middle" font-family="Arial" font-size="12">0.2</text>
+<text x="392" y="470" text-anchor="middle" font-family="Arial" font-size="12">0.4</text>
+<text x="538" y="470" text-anchor="middle" font-family="Arial" font-size="12">0.6</text>
+<text x="684" y="470" text-anchor="middle" font-family="Arial" font-size="12">0.8</text>
+<text x="830" y="470" text-anchor="middle" font-family="Arial" font-size="12">1.0</text>
+<text x="465" y="520" text-anchor="middle" font-family="Arial" font-size="15">Configured duplication probability (0 to 1)</text>
+</svg>
